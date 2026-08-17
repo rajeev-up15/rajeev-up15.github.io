@@ -32,6 +32,10 @@ openspec/
 # Generated files
 skills-lock.json
 
+# Local tool config (not needed for the site)
+.opencode/
+.agents/
+
 # Misc
 *.tmp
 .DS_Store
